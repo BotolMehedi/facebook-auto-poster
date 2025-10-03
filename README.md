@@ -10,7 +10,8 @@
 
 *A simple yet powerful PHP library for automating Facebook Page posts. Supports manual posting from local JSON/images as well as AI-powered content generation using Google Gemini. Designed for developers who want a clean, flexible, and cron frndly solution for Facebook automation.*
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Examples](#-examples) • [Contributing](#-contributing)
+[Features](#-features) • [Installation](#-installation) • [Usage Examples](#-💡-usage-examples
+) • [Troubleshooting](#-troubleshooting) • [Contributing](#-contributing) 
 
 </div>
 
